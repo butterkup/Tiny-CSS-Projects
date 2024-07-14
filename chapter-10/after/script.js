@@ -20,7 +20,7 @@ function markAsDirty(event) {
   event.target.classList.add('dirty');
 }
 
-function send(event) { 
+function submitContactForm(event) { 
   console.log('send');
   event.preventDefault();
 }

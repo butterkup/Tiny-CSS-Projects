@@ -1,9 +1,9 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 193">
   <defs>
     <style>
-      .cls-1{
+      .cls-1 {
         fill:none;
-        stroke:#000;
+        stroke:#191919;
         stroke-miterlimit:10;
         stroke-width:2px;
       }
