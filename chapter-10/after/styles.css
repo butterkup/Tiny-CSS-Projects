@@ -37,7 +37,7 @@ main {
 }
 
 .image {
-  background-image: url("/img/illustration.jpeg");
+  background-image: url("./img/illustration.jpeg");
   background-size: cover;
   background-position: bottom center;
   object-fit: contain;
